@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- START xml_defaults -->
+<defaultsMap>
+<!--    테마 색 -->
+    <entry>
+        <key>app_theme</key>
+        <value>#2244AA</value>
+    </entry>
+<!--    점검 유무 -->
+    <entry>
+        <key>server_caps</key>
+        <value>false</value>
+    </entry>
+<!--    점검 내용 -->
+    <entry>
+        <key>server_caps_message</key>
+        <value>점검 중 입니다.</value>
+    </entry>
+</defaultsMap>
+    <!-- END xml_defaults -->

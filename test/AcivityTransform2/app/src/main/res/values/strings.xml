@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AcivityTransform2</string>
+    <string name="key_activity_name">ActivityName</string>
+</resources>

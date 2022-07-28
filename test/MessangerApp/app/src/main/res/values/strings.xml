@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MessangerApp</string>
+    <string name="app_theme">app_theme</string>
+    <string name="server_caps">server_caps</string>
+    <string name="server_caps_message">server_caps_message</string>
+    <string name="child_users">Users</string>
+    <string name="child_users_profile_images">UsersProfileImages</string>
+</resources>
